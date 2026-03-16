@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+matplotlib
+
+# install current package in editable mode
+-e .
+
